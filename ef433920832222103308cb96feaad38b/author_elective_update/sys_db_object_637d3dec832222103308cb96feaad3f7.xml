@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>Doctor</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>u_st_doctor</name>
+        <number_ref display_value="DOC">f78dbdec832222103308cb96feaad3fd</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>true</scriptable_table>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-02 01:52:28</sys_created_on>
+        <sys_id>637d3dec832222103308cb96feaad3f7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Doctor</sys_name>
+        <sys_package display_value="Healthcare Management Application" source="ef433920832222103308cb96feaad38b">ef433920832222103308cb96feaad38b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Healthcare Management Application">ef433920832222103308cb96feaad38b</sys_scope>
+        <sys_update_name>sys_db_object_637d3dec832222103308cb96feaad3f7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-02 01:52:29</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Healthcare Management Application">ef433920832222103308cb96feaad38b</application>
+        <file_path/>
+        <instance_id>b6506d56dbe2b99c05ef17291396199e</instance_id>
+        <instance_name>dev216425</instance_name>
+        <name>sys_db_object_637d3dec832222103308cb96feaad3f7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>Doctor</label><live_feed_enabled>false</live_feed_enabled><name>u_st_doctor</name><number_ref display_value="DOC">f78dbdec832222103308cb96feaad3fd</number_ref><provider_class/><read_access>true</read_access><scriptable_table>true</scriptable_table><super_class/><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-02 01:52:28</sys_created_on><sys_id>637d3dec832222103308cb96feaad3f7</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Doctor</sys_name><sys_package display_value="Healthcare Management Application" source="ef433920832222103308cb96feaad38b">ef433920832222103308cb96feaad38b</sys_package><sys_policy/><sys_scope display_value="Healthcare Management Application">ef433920832222103308cb96feaad38b</sys_scope><sys_update_name>sys_db_object_637d3dec832222103308cb96feaad3f7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-02 01:52:29</sys_updated_on><update_access>false</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>1193671908</payload_hash>
+        <record_name>Doctor</record_name>
+        <reverted_from/>
+        <source>8284bde0832222103308cb96feaad3f6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-02 01:52:30</sys_created_on>
+        <sys_id>f38dfdec832222103308cb96feaad302</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197c8d5e32f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-02 01:52:30</sys_updated_on>
+        <type>Table</type>
+        <update_guid>7b8dfdecad222210ef022dfdcdcc3e01</update_guid>
+        <update_guid_history>7b8dfdecad222210ef022dfdcdcc3e01:1193671908,b38dbdec4c222210dd89fcc00ba0e5fc:-1288634175</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-02 01:53:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>a9bd721af7b74153a0032a4ccbf7b031</sys_id>
+        <sys_metadata>637d3dec832222103308cb96feaad3f7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Doctor</sys_name>
+        <sys_package display_value="Healthcare Management Application" source="ef433920832222103308cb96feaad38b">ef433920832222103308cb96feaad38b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Healthcare Management Application">ef433920832222103308cb96feaad38b</sys_scope>
+        <sys_scope_delete display_value="">d7eafbf0dc314ac4ba32601484617e10</sys_scope_delete>
+        <sys_update_name>sys_db_object_637d3dec832222103308cb96feaad3f7</sys_update_name>
+        <sys_update_version display_value="sys_db_object_637d3dec832222103308cb96feaad3f7">f38dfdec832222103308cb96feaad302</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-02 01:53:43</sys_updated_on>
+    </sys_metadata_delete>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Healthcare Management Application">ef433920832222103308cb96feaad38b</claim_owner_scope>
+        <claim_timestamp>197c9c35a310000001</claim_timestamp>
+        <metadata_update_name>sys_db_object_637d3dec832222103308cb96feaad3f7</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>Healthcare Management Application</previous_claim_name>
+        <previous_claim_scope>ef433920832222103308cb96feaad38b</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-02 06:11:52</sys_created_on>
+        <sys_id>0fe8fa68836622103308cb96feaad3c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-02 06:11:52</sys_updated_on>
+    </sys_claim>
+</record_update>
