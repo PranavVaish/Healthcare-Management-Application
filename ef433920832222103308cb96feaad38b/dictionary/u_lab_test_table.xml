@@ -14,6 +14,7 @@
         <element attributes="edge_encryption_enabled=true" label="Test Id" max_length="40" name="u_test_id" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Status" mandatory="true" max_length="40" name="u_status" type="string">
             <choice>
+                <element inactive_on_update="false" label="In Progress" sequence="3" value="in progress"/>
                 <element inactive_on_update="false" label="Cancelled" sequence="2" value="cancelled"/>
                 <element inactive_on_update="false" label="Scheduled" sequence="0" value="scheduled"/>
                 <element inactive_on_update="false" label="Completed" sequence="1" value="completed"/>
