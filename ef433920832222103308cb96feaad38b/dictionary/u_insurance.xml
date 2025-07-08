@@ -4,9 +4,9 @@
         <element attributes="edge_encryption_enabled=true" label="Coverage Details" mandatory="true" max_length="40" name="u_coverage_details" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="u_status" type="string">
             <choice>
-                <element inactive_on_update="false" label="Active" sequence="0" value="active"/>
-                <element inactive_on_update="false" label="Completed" sequence="2" value="completed"/>
-                <element inactive_on_update="false" label="Pending" sequence="1" value="pending"/>
+                <element inactive_on_update="false" label="Active" sequence="1" value="active"/>
+                <element inactive_on_update="false" label="Expired" sequence="2" value="expired"/>
+                <element inactive_on_update="false" label="New" sequence="0" value="new"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Insurance Id" max_length="40" name="u_insurance_id" read_only="true" type="string"/>

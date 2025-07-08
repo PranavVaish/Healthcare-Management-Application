@@ -2,8 +2,10 @@
     <element audit="true" db_object_id="1c9f4aa483a222103308cb96feaad3a6" label="Ward" max_length="40" name="u_ward" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="u_status" type="string">
             <choice>
-                <element inactive_on_update="false" label="Active" sequence="0" value="active"/>
-                <element inactive_on_update="false" label="Under Maintenance" sequence="1" value="under maintenance"/>
+                <element inactive_on_update="false" label="Active" sequence="1" value="active"/>
+                <element inactive_on_update="false" label="Under Maintenance" sequence="2" value="under maintenance"/>
+                <element inactive_on_update="false" label="Closed" sequence="3" value="closed"/>
+                <element inactive_on_update="false" label="New" sequence="0" value="new"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Work Notes" max_length="4000" name="u_work_notes" type="journal"/>

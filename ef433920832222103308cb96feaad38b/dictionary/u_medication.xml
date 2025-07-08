@@ -11,15 +11,16 @@
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="u_status" type="string">
             <choice>
-                <element inactive_on_update="false" label="Cancelled" sequence="2" value="cancelled"/>
-                <element inactive_on_update="false" label="Completed" sequence="1" value="completed"/>
-                <element inactive_on_update="false" label="In Progress" sequence="0" value="in progress"/>
+                <element inactive_on_update="false" label="Prescribed" sequence="1" value="prescribed"/>
+                <element inactive_on_update="false" label="Completed" sequence="3" value="completed"/>
+                <element inactive_on_update="false" label="New" sequence="0" value="new"/>
+                <element inactive_on_update="false" label="In Progress" sequence="2" value="in progress"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="End Date" mandatory="true" max_length="40" name="u_end_date" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="Medication Name" mandatory="true" max_length="40" name="u_medication_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Start Date" mandatory="true" max_length="40" name="u_start_date" type="glide_date"/>
-        <element attributes="edge_encryption_enabled=true" label="Medication Id" max_length="40" name="u_medication_id" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Medication Id" max_length="40" name="u_medication_id" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Dosage" mandatory="true" max_length="100" name="u_dosage" type="string"/>
     </element>
 </database>

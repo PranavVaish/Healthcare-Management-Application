@@ -3,58 +3,72 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-03 11:21:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2e590d0183ea22103308cb96feaad312</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="u_nurse" name="u_nurse" sys_domain="global" view="Default view">dcff0ea483a222103308cb96feaad3de</sys_ui_form>
+            <sys_ui_section caption="Process Flow" display_value="Process Flow" name="u_nurse" sys_domain="global" view="Default view">e6590d0183ea22103308cb96feaad30f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-03 11:21:22</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
             <sys_created_on>2025-07-02 03:12:49</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>d4ff0ea483a222103308cb96feaad3e2</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="u_nurse" name="u_nurse" sys_domain="global" view="Default view">dcff0ea483a222103308cb96feaad3de</sys_ui_form>
             <sys_ui_section caption="Personal Information" display_value="Personal Information" name="u_nurse" sys_domain="global" view="Default view">90ff0ea483a222103308cb96feaad3e1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-07-02 03:18:08</sys_updated_on>
+            <sys_updated_on>2025-07-03 11:21:22</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>1</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2025-07-02 03:13:27</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>f5101ae483a222103308cb96feaad3f7</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="u_nurse" name="u_nurse" sys_domain="global" view="Default view">dcff0ea483a222103308cb96feaad3de</sys_ui_form>
             <sys_ui_section caption="Contact Information" display_value="Contact Information" name="u_nurse" sys_domain="global" view="Default view">35101ae483a222103308cb96feaad3f5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-07-02 03:18:08</sys_updated_on>
+            <sys_updated_on>2025-07-03 11:21:22</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2025-07-02 03:14:18</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>02401ee483a222103308cb96feaad350</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="u_nurse" name="u_nurse" sys_domain="global" view="Default view">dcff0ea483a222103308cb96feaad3de</sys_ui_form>
             <sys_ui_section caption="Professional Information" display_value="Professional Information" name="u_nurse" sys_domain="global" view="Default view">c640d2e483a222103308cb96feaad3f2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-07-02 03:18:08</sys_updated_on>
+            <sys_updated_on>2025-07-03 11:21:22</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2025-07-02 03:15:07</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>8e70122883a222103308cb96feaad30c</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="u_nurse" name="u_nurse" sys_domain="global" view="Default view">dcff0ea483a222103308cb96feaad3de</sys_ui_form>
             <sys_ui_section caption="Activity/Notes" display_value="Activity/Notes" name="u_nurse" sys_domain="global" view="Default view">02701ae483a222103308cb96feaad3ff</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-07-02 03:18:08</sys_updated_on>
+            <sys_updated_on>2025-07-03 11:21:22</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>u_nurse</name>

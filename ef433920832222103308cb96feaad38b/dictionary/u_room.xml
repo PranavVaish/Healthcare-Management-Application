@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" db_object_id="caaf0ea483a222103308cb96feaad3ca" label="Room" max_length="40" name="u_room" type="collection">
-        <element attributes="edge_encryption_enabled=true" label="Room Number" mandatory="true" max_length="40" name="u_room_number" type="string"/>
+        <element attributes="dependent=ward_id,edge_encryption_enabled=true,u_dependent=true" dependent="u_ward_id" dependent_on_field="u_ward_id" label="Room Number" mandatory="true" max_length="40" name="u_room_number" type="string" use_dependent_field="true"/>
         <element attributes="edge_encryption_enabled=true" label="Work Notes" max_length="4000" name="u_work_notes" type="journal"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="u_status" type="string">
             <choice>
-                <element inactive_on_update="false" label="Available" sequence="0" value="available"/>
-                <element inactive_on_update="false" label="Occupied" sequence="1" value="occupied"/>
+                <element inactive_on_update="false" label="New" sequence="0" value="new"/>
+                <element inactive_on_update="false" label="Available" sequence="1" value="available"/>
+                <element inactive_on_update="false" label="Occupied" sequence="2" value="occupied"/>
+                <element inactive_on_update="false" label="Under Maintence" sequence="3" value="under maintenance"/>
             </choice>
         </element>
         <element label="Bed Count" mandatory="true" max_length="40" name="u_bed_count" type="integer"/>
