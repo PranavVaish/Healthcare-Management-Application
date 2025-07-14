@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="519cce6083a222103308cb96feaad3d6" sys_domain="global" table="u_lab_test_table" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-02 02:58:08</sys_created_on>
+            <sys_id>d19cce6083a222103308cb96feaad3d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_lab_test_table" sys_domain="global" view="Default view">519cce6083a222103308cb96feaad3d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-02 02:58:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-02 02:58:08</sys_created_on>
+            <sys_id>599cce6083a222103308cb96feaad3d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_lab_test_table" sys_domain="global" view="Default view">519cce6083a222103308cb96feaad3d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-02 02:58:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cmdb_ci</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-02 02:58:08</sys_created_on>
+            <sys_id>dd9cce6083a222103308cb96feaad3d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_lab_test_table" sys_domain="global" view="Default view">519cce6083a222103308cb96feaad3d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-02 02:58:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-02 02:58:08</sys_created_on>
+            <sys_id>d99cce6083a222103308cb96feaad3d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_lab_test_table" sys_domain="global" view="Default view">519cce6083a222103308cb96feaad3d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-02 02:58:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-02 02:58:08</sys_created_on>
+            <sys_id>559cce6083a222103308cb96feaad3d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_lab_test_table" sys_domain="global" view="Default view">519cce6083a222103308cb96feaad3d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-02 02:58:08</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-02 02:58:08</sys_created_on>
+            <sys_id>519cce6083a222103308cb96feaad3d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_lab_test_table" sys_domain="global" view="Default view">519cce6083a222103308cb96feaad3d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-02 02:58:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-02 02:58:08</sys_created_on>
+            <sys_id>d59c4ea083a222103308cb96feaad3d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_lab_test_table" sys_domain="global" view="Default view">519cce6083a222103308cb96feaad3d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-02 02:58:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-02 02:58:08</sys_created_on>
+            <sys_id>5d9c4ea083a222103308cb96feaad3d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_lab_test_table" sys_domain="global" view="Default view">519cce6083a222103308cb96feaad3d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-02 02:58:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-02 02:58:08</sys_created_on>
+            <sys_id>d19c4ea083a222103308cb96feaad3d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_lab_test_table" sys_domain="global" view="Default view">519cce6083a222103308cb96feaad3d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-02 02:58:08</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-02 02:58:08</sys_created_on>
+            <sys_id>599c4ea083a222103308cb96feaad3d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_lab_test_table" sys_domain="global" view="Default view">519cce6083a222103308cb96feaad3d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-02 02:58:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-02 02:58:08</sys_created_on>
+            <sys_id>dd9c4ea083a222103308cb96feaad3d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_lab_test_table" sys_domain="global" view="Default view">519cce6083a222103308cb96feaad3d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-02 02:58:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-02 02:58:08</sys_created_on>
+            <sys_id>559c4ea083a222103308cb96feaad3d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_lab_test_table" sys_domain="global" view="Default view">519cce6083a222103308cb96feaad3d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-02 02:58:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>u_lab_test_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-02 02:58:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>519cce6083a222103308cb96feaad3d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_lab_test_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Healthcare Management Application" source="ef433920832222103308cb96feaad38b">ef433920832222103308cb96feaad38b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Healthcare Management Application">ef433920832222103308cb96feaad38b</sys_scope>
+            <sys_update_name>sys_ui_section_519cce6083a222103308cb96feaad3d6</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-02 02:58:08</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Healthcare Management Application">ef433920832222103308cb96feaad38b</application>
+        <file_path/>
+        <instance_id>b6506d56dbe2b99c05ef17291396199e</instance_id>
+        <instance_name>dev216425</instance_name>
+        <name>sys_ui_section_519cce6083a222103308cb96feaad3d6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="519cce6083a222103308cb96feaad3d6" sys_domain="global" table="u_lab_test_table" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-02 02:58:08</sys_created_on><sys_id>d19cce6083a222103308cb96feaad3d7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_lab_test_table" sys_domain="global" view="Default view">519cce6083a222103308cb96feaad3d6</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-02 02:58:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assigned_to</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-02 02:58:08</sys_created_on><sys_id>599cce6083a222103308cb96feaad3d7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_lab_test_table" sys_domain="global" view="Default view">519cce6083a222103308cb96feaad3d6</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-02 02:58:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>cmdb_ci</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-02 02:58:08</sys_created_on><sys_id>dd9cce6083a222103308cb96feaad3d7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_lab_test_table" sys_domain="global" view="Default view">519cce6083a222103308cb96feaad3d6</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-02 02:58:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>active</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-02 02:58:08</sys_created_on><sys_id>d99cce6083a222103308cb96feaad3d8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_lab_test_table" sys_domain="global" view="Default view">519cce6083a222103308cb96feaad3d6</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-02 02:58:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-02 02:58:08</sys_created_on><sys_id>559cce6083a222103308cb96feaad3d8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_lab_test_table" sys_domain="global" view="Default view">519cce6083a222103308cb96feaad3d6</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-02 02:58:08</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>priority</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-02 02:58:08</sys_created_on><sys_id>519cce6083a222103308cb96feaad3d9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_lab_test_table" sys_domain="global" view="Default view">519cce6083a222103308cb96feaad3d6</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-02 02:58:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>state</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-02 02:58:08</sys_created_on><sys_id>d59c4ea083a222103308cb96feaad3d7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_lab_test_table" sys_domain="global" view="Default view">519cce6083a222103308cb96feaad3d6</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-02 02:58:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>parent</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-02 02:58:08</sys_created_on><sys_id>5d9c4ea083a222103308cb96feaad3d7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_lab_test_table" sys_domain="global" view="Default view">519cce6083a222103308cb96feaad3d6</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-02 02:58:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-02 02:58:08</sys_created_on><sys_id>d19c4ea083a222103308cb96feaad3d8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_lab_test_table" sys_domain="global" view="Default view">519cce6083a222103308cb96feaad3d6</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-02 02:58:08</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-02 02:58:08</sys_created_on><sys_id>599c4ea083a222103308cb96feaad3d8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_lab_test_table" sys_domain="global" view="Default view">519cce6083a222103308cb96feaad3d6</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-02 02:58:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-02 02:58:08</sys_created_on><sys_id>dd9c4ea083a222103308cb96feaad3d8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_lab_test_table" sys_domain="global" view="Default view">519cce6083a222103308cb96feaad3d6</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-02 02:58:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>work_notes</element><position>11</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-02 02:58:08</sys_created_on><sys_id>559c4ea083a222103308cb96feaad3d9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="u_lab_test_table" sys_domain="global" view="Default view">519cce6083a222103308cb96feaad3d6</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-02 02:58:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>u_lab_test_table</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-02 02:58:08</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>519cce6083a222103308cb96feaad3d6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_lab_test_table</sys_name><sys_overrides/><sys_package display_value="Healthcare Management Application" source="ef433920832222103308cb96feaad38b">ef433920832222103308cb96feaad38b</sys_package><sys_policy/><sys_scope display_value="Healthcare Management Application">ef433920832222103308cb96feaad38b</sys_scope><sys_update_name>sys_ui_section_519cce6083a222103308cb96feaad3d6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-02 02:58:08</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1696695144</payload_hash>
+        <record_name>Lab Test Table</record_name>
+        <reverted_from/>
+        <source>8284bde0832222103308cb96feaad3f6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-02 03:07:54</sys_created_on>
+        <sys_id>54de4a6483a222103308cb96feaad3ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197c91aed1c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-02 03:07:54</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>14de4a64d0a222100371f76a272ccfae</update_guid>
+        <update_guid_history>14de4a64d0a222100371f76a272ccfae:-1696695144</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-02 03:07:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>2b56caee6d5743f2a2c3cd7cf0a2db91</sys_id>
+        <sys_metadata>519cce6083a222103308cb96feaad3d6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_lab_test_table</sys_name>
+        <sys_package display_value="Healthcare Management Application" source="ef433920832222103308cb96feaad38b">ef433920832222103308cb96feaad38b</sys_package>
+        <sys_parent display_value="Lab Test Table">0d2c0e6083a222103308cb96feaad321</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Healthcare Management Application">ef433920832222103308cb96feaad38b</sys_scope>
+        <sys_scope_delete display_value="">d7eafbf0dc314ac4ba32601484617e10</sys_scope_delete>
+        <sys_update_name>sys_ui_section_519cce6083a222103308cb96feaad3d6</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_519cce6083a222103308cb96feaad3d6">54de4a6483a222103308cb96feaad3ae</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-02 03:07:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Billing ">31935ee883a222103308cb96feaad379</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Billing s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>u_billing</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-02 03:28:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b5935ee883a222103308cb96feaad37d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Billing s</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Healthcare Management Application" source="ef433920832222103308cb96feaad38b">ef433920832222103308cb96feaad38b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Healthcare Management Application">ef433920832222103308cb96feaad38b</sys_scope>
+        <sys_update_name>sys_app_module_b5935ee883a222103308cb96feaad37d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-02 03:28:45</sys_updated_on>
+        <timeline_page/>
+        <title>Billing s</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Healthcare Management Application">ef433920832222103308cb96feaad38b</application>
+        <file_path/>
+        <instance_id>b6506d56dbe2b99c05ef17291396199e</instance_id>
+        <instance_name>dev216425</instance_name>
+        <name>sys_app_module_b5935ee883a222103308cb96feaad37d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Billing ">31935ee883a222103308cb96feaad379</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Billing s</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>u_billing</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-02 03:28:45</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b5935ee883a222103308cb96feaad37d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Billing s</sys_name><sys_overrides/><sys_package display_value="Healthcare Management Application" source="ef433920832222103308cb96feaad38b">ef433920832222103308cb96feaad38b</sys_package><sys_policy/><sys_scope display_value="Healthcare Management Application">ef433920832222103308cb96feaad38b</sys_scope><sys_update_name>sys_app_module_b5935ee883a222103308cb96feaad37d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-02 03:28:45</sys_updated_on><timeline_page/><title>Billing s</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1696329156</payload_hash>
+        <record_name>Billing s</record_name>
+        <reverted_from/>
+        <source>8284bde0832222103308cb96feaad3f6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-02 03:28:45</sys_created_on>
+        <sys_id>bd93162c83a222103308cb96feaad303</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197c92e052c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-02 03:28:45</sys_updated_on>
+        <type>Module</type>
+        <update_guid>f5935ee818a22210ad570556ba694180</update_guid>
+        <update_guid_history>f5935ee818a22210ad570556ba694180:-1696329156</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Billing s">76beaee8832622103308cb96feaad3ce</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-02 05:27:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>2a8cb2b1559240098d7a927ee3489059</sys_id>
+        <sys_metadata>b5935ee883a222103308cb96feaad37d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Billing s</sys_name>
+        <sys_package display_value="Healthcare Management Application" source="ef433920832222103308cb96feaad38b">ef433920832222103308cb96feaad38b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Healthcare Management Application">ef433920832222103308cb96feaad38b</sys_scope>
+        <sys_scope_delete display_value="">d7eafbf0dc314ac4ba32601484617e10</sys_scope_delete>
+        <sys_update_name>sys_app_module_b5935ee883a222103308cb96feaad37d</sys_update_name>
+        <sys_update_version display_value="sys_app_module_b5935ee883a222103308cb96feaad37d">bd93162c83a222103308cb96feaad303</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-02 05:27:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
