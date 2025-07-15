@@ -4,42 +4,27 @@
         <description/>
         <name>Q4</name>
         <record_for_rollback>true</record_for_rollback>
-        <script><![CDATA[(function() {
-    var patientID = 'PAT0001010';
-    var patientGR = new GlideRecord('u_patient_record');
-    patientGR.addQuery('u_number', patientID);
-    patientGR.query();
-
-    if (patientGR.next()) {
-        var patientSysId = patientGR.getUniqueValue();
-
-        var labTT = new GlideRecord('u_lab_test');
-        labTT.addQuery('u_patient', patientSysId);
-        labTT.query();
-
-        if (!labTT.hasNext()) {
-            gs.print('No lab tests for this patient.');
-        } else {
-            while (labTT.next()) {
-                gs.print('Lab Test: ' + labTT.u_test_results);
-            }
-        }
-    } else {
-        gs.print('Patient not found with ID: ' + patientID);
-    }
-})();]]></script>
+        <script><![CDATA[var gr = new GlideRecord("u_lab_test_table");
+var pat = 'PAT0001009';
+// gs.addInfoMessage(gr.get(pat))
+// gs.print(gr.get('pat'))
+gr.addQuery("u_patient_id.u_number",pat);
+gr.query();
+while(gr.next()){
+	gs.print("The lab test scheduled is "+gr.getDisplayValue("number"));
+}]]></script>
         <sys_class_name>sys_script_fix</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-07-04 08:11:13</sys_created_on>
         <sys_id>0957ed55832222103308cb96feaad365</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>Q4</sys_name>
         <sys_package display_value="Healthcare Management Application" source="ef433920832222103308cb96feaad38b">ef433920832222103308cb96feaad38b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Healthcare Management Application">ef433920832222103308cb96feaad38b</sys_scope>
         <sys_update_name>sys_script_fix_0957ed55832222103308cb96feaad365</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-07-04 08:11:13</sys_updated_on>
+        <sys_updated_on>2025-07-15 09:51:22</sys_updated_on>
         <unloadable>false</unloadable>
     </sys_script_fix>
     <sys_es_latest_script action="INSERT_OR_UPDATE">

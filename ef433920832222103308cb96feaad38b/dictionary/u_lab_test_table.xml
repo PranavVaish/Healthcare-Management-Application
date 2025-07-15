@@ -12,13 +12,13 @@
         </element>
         <element attributes="edge_encryption_enabled=true" label="Scheduled Date" mandatory="true" max_length="40" name="u_scheduled_date" type="glide_date_time"/>
         <element attributes="edge_encryption_enabled=true" label="Test Id" max_length="40" name="u_test_id" read_only="true" type="string"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" default="Scheduled" label="Status" mandatory="true" max_length="40" name="u_status" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" mandatory="true" max_length="40" name="u_status" type="string">
             <choice>
-                <element inactive_on_update="false" label="New" sequence="0" value="new"/>
+                <element inactive_on_update="false" label="New" sequence="3" value="new"/>
                 <element inactive_on_update="false" label="In Progress" sequence="2" value="in progress"/>
-                <element inactive_on_update="false" label="Cancelled" sequence="4" value="cancelled"/>
-                <element inactive_on_update="false" label="Scheduled" sequence="1" value="scheduled"/>
-                <element inactive_on_update="false" label="Completed" sequence="3" value="completed"/>
+                <element inactive_on_update="false" label="Cancelled" sequence="0" value="cancelled"/>
+                <element inactive_on_update="false" label="Scheduled" sequence="4" value="scheduled"/>
+                <element inactive_on_update="false" label="Completed" sequence="1" value="completed"/>
             </choice>
         </element>
     </element>
