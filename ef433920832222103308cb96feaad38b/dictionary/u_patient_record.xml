@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" db_object_id="7238b928832222103308cb96feaad3d7" label="Patient Record" max_length="40" name="u_patient_record" type="collection">
         <element label="Emergency Contact" mandatory="true" max_length="40" name="u_emergency_contact" type="phone_number_e164"/>
-        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="u_number" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Pat ID" max_length="40" name="u_number" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Work Notes" max_length="4000" name="u_work_notes" type="journal"/>
         <element label="Contact Number" mandatory="true" max_length="40" name="u_contact_number" type="phone_number_e164"/>
         <element attributes="edge_encryption_enabled=true" label="Date  Of Birth" mandatory="true" max_length="40" name="u_date_of_birth" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Room assigned" mandatory="true" max_length="32" name="u_room_assigned" reference="u_room" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="VIP" max_length="40" name="u_vip" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="u_status" type="string">
             <choice>
                 <element inactive_on_update="false" label="New" sequence="0" value="new"/>
@@ -23,7 +25,10 @@
         <element attributes="edge_encryption_enabled=true" label="First Name" mandatory="true" max_length="40" name="u_first_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Address" mandatory="true" max_length="1000" name="u_address" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Last Name" mandatory="true" max_length="40" name="u_last_name" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Patient Id" max_length="40" name="u_patient_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Patient Id" max_length="40" name="u_patient_id" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true,u_email_client=true" label="Email" mandatory="true" max_length="40" name="u_email" type="string"/>
+        <index name="index">
+            <element name="u_room_assigned"/>
+        </index>
     </element>
 </database>

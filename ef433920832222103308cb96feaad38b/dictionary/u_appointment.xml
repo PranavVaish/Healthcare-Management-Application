@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" db_object_id="753cb1ac832222103308cb96feaad38a" extends="task" label="Appointment" max_length="40" name="u_appointment" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="3" default="high" label="Patient Priority" max_length="40" name="u_patient_priority" type="string">
+            <choice>
+                <element inactive_on_update="false" label="High" sequence="0" value="high"/>
+                <element inactive_on_update="false" label="Low" sequence="2" value="low"/>
+                <element inactive_on_update="false" label="Normal" sequence="1" value="normal"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" label="Appointment Date" mandatory="true" max_length="40" name="u_appointment_date" type="glide_date_time"/>
         <element attributes="encode_utf8=false" label="Patient Id" mandatory="true" max_length="32" name="u_patient_id" reference="u_patient_record" type="reference"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Department" mandatory="true" max_length="40" name="u_department" type="string">
@@ -10,6 +17,7 @@
             </choice>
         </element>
         <element attributes="encode_utf8=false" label="Doctor" mandatory="true" max_length="32" name="u_doctor" reference="u_doctor" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Doctor Notes" max_length="4000" name="u_doctor_notes" type="journal"/>
         <element attributes="edge_encryption_enabled=true" label="Appointment Id" max_length="40" name="u_appointment_id" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Status" mandatory="true" max_length="40" name="u_status" type="string">
             <choice>

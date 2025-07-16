@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="u_number" label="Pat ID" language="en" table="u_patient_record">
+    <sys_documentation element="number" label="APT ID" language="en" table="u_appointment">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>u_number</element>
+            <element>number</element>
             <help/>
             <hint/>
-            <label>Pat ID</label>
+            <label>APT ID</label>
             <language>en</language>
-            <name>u_patient_record</name>
-            <plural>Pat IDs</plural>
+            <name>u_appointment</name>
+            <plural>APT IDs</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-07-02 01:30:10</sys_created_on>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_name>Pat ID</sys_name>
+            <sys_created_on>2025-07-15 11:42:30</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>APT ID</sys_name>
             <sys_package display_value="Healthcare Management Application" source="ef433920832222103308cb96feaad38b">ef433920832222103308cb96feaad38b</sys_package>
             <sys_policy/>
             <sys_scope display_value="Healthcare Management Application">ef433920832222103308cb96feaad38b</sys_scope>
-            <sys_update_name>sys_documentation_u_patient_record_u_number_en</sys_update_name>
+            <sys_update_name>sys_documentation_u_appointment_number_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-07-15 10:21:44</sys_updated_on>
+            <sys_updated_on>2025-07-15 11:42:30</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
