@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="u_ward_id" table="u_ward">
+        <active>true</active>
+        <array>false</array>
+        <attributes>edge_encryption_enabled=true</attributes>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Ward Id</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>u_ward_id</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="String">string</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>u_ward</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>true</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-02 03:22:41</sys_created_on>
+        <sys_name>Ward Id</sys_name>
+        <sys_package display_value="Healthcare Management Application" source="ef433920832222103308cb96feaad38b">ef433920832222103308cb96feaad38b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Healthcare Management Application">ef433920832222103308cb96feaad38b</sys_scope>
+        <sys_update_name>sys_dictionary_u_ward_u_ward_id</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-02 03:23:48</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Healthcare Management Application">ef433920832222103308cb96feaad38b</application>
+        <file_path/>
+        <instance_id>b6506d56dbe2b99c05ef17291396199e</instance_id>
+        <instance_name>dev216425</instance_name>
+        <name>sys_dictionary_u_ward_u_ward_id</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="INSERT_OR_UPDATE" element="u_ward_id" table="u_ward">
+        <active>true</active>
+        <array>false</array>
+        <attributes>edge_encryption_enabled=true</attributes>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Ward Id</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>u_ward_id</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="String">string</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>u_ward</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>true</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-02 03:22:41</sys_created_on>
+        <sys_name>Ward Id</sys_name>
+        <sys_package display_value="Healthcare Management Application" source="ef433920832222103308cb96feaad38b">ef433920832222103308cb96feaad38b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Healthcare Management Application">ef433920832222103308cb96feaad38b</sys_scope>
+        <sys_update_name>sys_dictionary_u_ward_u_ward_id</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-02 03:23:48</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+</record_update>]]></payload>
+        <payload_hash>194521059</payload_hash>
+        <record_name>Ward.Ward Id</record_name>
+        <reverted_from/>
+        <source>bdd2c4d583b222103308cb96feaad390</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-16 11:07:45</sys_created_on>
+        <sys_id>cee20cd583b222103308cb96feaad363</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19812eb46310000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-16 11:07:45</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>cae20cd553b222105a2692caffe8b363</update_guid>
+        <update_guid_history>cae20cd553b222105a2692caffe8b363:0,2ba0081515b2221043597eb9257e29f2:911512235,5d72daa85ba22210b1d20c4d2f6442a6:96848631,bc3256a8b9a22210a15288f0d58379e1:971255812</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-16 11:08:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>023ce66e7acb4604802cabba531996d9</sys_id>
+        <sys_metadata>fbd288d583b222103308cb96feaad314</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ward Id</sys_name>
+        <sys_package display_value="Healthcare Management Application" source="ef433920832222103308cb96feaad38b">ef433920832222103308cb96feaad38b</sys_package>
+        <sys_parent display_value="Ward">1c9f4aa483a222103308cb96feaad3a6</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Healthcare Management Application">ef433920832222103308cb96feaad38b</sys_scope>
+        <sys_scope_delete display_value="">d7eafbf0dc314ac4ba32601484617e10</sys_scope_delete>
+        <sys_update_name>sys_dictionary_u_ward_u_ward_id</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_u_ward_u_ward_id">cee20cd583b222103308cb96feaad363</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-16 11:08:25</sys_updated_on>
+    </sys_metadata_delete>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Healthcare Management Application">ef433920832222103308cb96feaad38b</claim_owner_scope>
+        <claim_timestamp>19812ef4da90000001</claim_timestamp>
+        <metadata_update_name>sys_dictionary_u_ward_u_ward_id</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>Healthcare Management Application</previous_claim_name>
+        <previous_claim_scope>ef433920832222103308cb96feaad38b</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-16 11:12:09</sys_created_on>
+        <sys_id>52e3445983b222103308cb96feaad360</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-16 11:12:09</sys_updated_on>
+    </sys_claim>
+</record_update>

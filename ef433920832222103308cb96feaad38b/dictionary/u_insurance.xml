@@ -10,7 +10,6 @@
                 <element inactive_on_update="false" label="New" sequence="0" value="new"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" label="Insurance Id" max_length="40" name="u_insurance_id" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Provider" mandatory="true" max_length="40" name="u_provider" type="string"/>
         <element attributes="encode_utf8=false" label="Patient Id" mandatory="true" max_length="32" name="u_patient_id" reference="u_patient_record" type="reference"/>
     </element>

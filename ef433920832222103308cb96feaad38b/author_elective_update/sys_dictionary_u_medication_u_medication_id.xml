@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="u_medication_id" table="u_medication">
+        <active>true</active>
+        <array>false</array>
+        <attributes>edge_encryption_enabled=true</attributes>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Medication Id</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>u_medication_id</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="String">string</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>u_medication</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-02 02:49:53</sys_created_on>
+        <sys_name>Medication Id</sys_name>
+        <sys_package display_value="Healthcare Management Application" source="ef433920832222103308cb96feaad38b">ef433920832222103308cb96feaad38b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Healthcare Management Application">ef433920832222103308cb96feaad38b</sys_scope>
+        <sys_update_name>sys_dictionary_u_medication_u_medication_id</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-03 11:59:46</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Healthcare Management Application">ef433920832222103308cb96feaad38b</application>
+        <file_path/>
+        <instance_id>b6506d56dbe2b99c05ef17291396199e</instance_id>
+        <instance_name>dev216425</instance_name>
+        <name>sys_dictionary_u_medication_u_medication_id</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="INSERT_OR_UPDATE" element="u_medication_id" table="u_medication">
+        <active>true</active>
+        <array>false</array>
+        <attributes>edge_encryption_enabled=true</attributes>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Medication Id</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>u_medication_id</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="String">string</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>u_medication</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-02 02:49:53</sys_created_on>
+        <sys_name>Medication Id</sys_name>
+        <sys_package display_value="Healthcare Management Application" source="ef433920832222103308cb96feaad38b">ef433920832222103308cb96feaad38b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Healthcare Management Application">ef433920832222103308cb96feaad38b</sys_scope>
+        <sys_update_name>sys_dictionary_u_medication_u_medication_id</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-03 11:59:46</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+</record_update>]]></payload>
+        <payload_hash>-1280541656</payload_hash>
+        <record_name>Medication .Medication Id</record_name>
+        <reverted_from/>
+        <source>bdd2c4d583b222103308cb96feaad390</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-16 11:07:44</sys_created_on>
+        <sys_id>79e2c8d583b222103308cb96feaad3ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19812eb42370000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-16 11:07:44</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>35e2c8d501b22210e4572595ff1318ef</update_guid>
+        <update_guid_history>35e2c8d501b22210e4572595ff1318ef:0,2ae8a4098efe2210510b3f2f21b03605:1919791466,15221dc90dea221007fa304dfab70221:476444830,67db0e6033a22210d5228c34fb960630:1371354339,38ba06203da22210b1a39aff265eceee:476444830</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-16 11:08:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>18470b15db1f492ca362aa1faa83fe04</sys_id>
+        <sys_metadata>afd248d583b222103308cb96feaad326</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Medication Id</sys_name>
+        <sys_package display_value="Healthcare Management Application" source="ef433920832222103308cb96feaad38b">ef433920832222103308cb96feaad38b</sys_package>
+        <sys_parent display_value="Medication ">e5b20664836222103308cb96feaad341</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Healthcare Management Application">ef433920832222103308cb96feaad38b</sys_scope>
+        <sys_scope_delete display_value="">d7eafbf0dc314ac4ba32601484617e10</sys_scope_delete>
+        <sys_update_name>sys_dictionary_u_medication_u_medication_id</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_u_medication_u_medication_id">79e2c8d583b222103308cb96feaad3ef</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-16 11:08:25</sys_updated_on>
+    </sys_metadata_delete>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Healthcare Management Application">ef433920832222103308cb96feaad38b</claim_owner_scope>
+        <claim_timestamp>19812ef4ded0000001</claim_timestamp>
+        <metadata_update_name>sys_dictionary_u_medication_u_medication_id</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>Healthcare Management Application</previous_claim_name>
+        <previous_claim_scope>ef433920832222103308cb96feaad38b</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-16 11:12:09</sys_created_on>
+        <sys_id>5ee3445983b222103308cb96feaad365</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-16 11:12:09</sys_updated_on>
+    </sys_claim>
+</record_update>
