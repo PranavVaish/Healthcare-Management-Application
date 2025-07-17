@@ -12,7 +12,7 @@
         <change_fields>false</change_fields>
         <client_callable>false</client_callable>
         <collection>u_appointment</collection>
-        <condition>u_doctor_notes.changes()</condition>
+        <condition>u_work_notes.changes()</condition>
         <description/>
         <execute_function>false</execute_function>
         <filter_condition/>
@@ -28,7 +28,7 @@
         <rest_variables/>
         <role_conditions/>
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
-	if(current.u_doctor_notes.toLowerCase().indexOf('[complete]') !== -1){
+	if(current.u_work_notes.toLowerCase().indexOf('complete') !== -1){
 		current.u_status = 'Completed';
 	}
 })(current, previous);]]></script>
@@ -38,7 +38,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>03d0d83683a622103308cb96feaad340</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Auto‑Complete on Doctor Note</sys_name>
         <sys_overrides/>
         <sys_package display_value="Healthcare Management Application" source="ef433920832222103308cb96feaad38b">ef433920832222103308cb96feaad38b</sys_package>
@@ -46,7 +46,7 @@
         <sys_scope display_value="Healthcare Management Application">ef433920832222103308cb96feaad38b</sys_scope>
         <sys_update_name>sys_script_03d0d83683a622103308cb96feaad340</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-07-10 11:10:07</sys_updated_on>
+        <sys_updated_on>2025-07-15 18:05:38</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>

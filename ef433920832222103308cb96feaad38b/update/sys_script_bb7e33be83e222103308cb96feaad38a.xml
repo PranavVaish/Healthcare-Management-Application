@@ -11,7 +11,7 @@
         <advanced>true</advanced>
         <change_fields>false</change_fields>
         <client_callable>false</client_callable>
-        <collection>u_appointment</collection>
+        <collection>u_patient_record</collection>
         <condition/>
         <description/>
         <execute_function>false</execute_function>
@@ -28,11 +28,9 @@
         <rest_variables/>
         <role_conditions/>
         <script><![CDATA[(function executeRule(current, previous /*null when async*/ ) {
-    if (!gs.nil(current.u_patient_id)) {
-        var pat = new GlideRecord('u_patient_record');
-        if (pat.get(current.u_patient_id) && pat.u_vip === true) {
-            current.u_patient_priority = 'High';
-        }
+    if (current.u_vip) {
+            current.u_priority = 'High';
+			gs.addInfoMessage("You are a VIP patient.");
     }
 
 })(current, previous);]]></script>
@@ -42,7 +40,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>bb7e33be83e222103308cb96feaad38a</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>VIP High Priority</sys_name>
         <sys_overrides/>
         <sys_package display_value="Healthcare Management Application" source="ef433920832222103308cb96feaad38b">ef433920832222103308cb96feaad38b</sys_package>
@@ -50,7 +48,7 @@
         <sys_scope display_value="Healthcare Management Application">ef433920832222103308cb96feaad38b</sys_scope>
         <sys_update_name>sys_script_bb7e33be83e222103308cb96feaad38a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-07-09 12:00:13</sys_updated_on>
+        <sys_updated_on>2025-07-15 18:25:42</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>

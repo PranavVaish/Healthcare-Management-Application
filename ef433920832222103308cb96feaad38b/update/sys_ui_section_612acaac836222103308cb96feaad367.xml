@@ -4,111 +4,97 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-07-09 12:06:44</sys_created_on>
-            <sys_id>394d0c03836622103308cb96feaad3d4</sys_id>
+            <sys_created_on>2025-07-15 19:14:24</sys_created_on>
+            <sys_id>bcb8ecc583fe22103308cb96feaad3b1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Medication Details" display_value="Medication Details" name="u_medication" sys_domain="global" view="Default view">612acaac836222103308cb96feaad367</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-07-09 12:06:44</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_medication_id</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-07-09 12:06:44</sys_created_on>
-            <sys_id>f14d0c03836622103308cb96feaad3d5</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Medication Details" display_value="Medication Details" name="u_medication" sys_domain="global" view="Default view">612acaac836222103308cb96feaad367</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-07-09 12:06:44</sys_updated_on>
+            <sys_updated_on>2025-07-15 19:14:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_patient_id</element>
-            <position>2</position>
+            <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-07-09 12:06:44</sys_created_on>
-            <sys_id>794d0c03836622103308cb96feaad3d5</sys_id>
+            <sys_created_on>2025-07-15 19:14:24</sys_created_on>
+            <sys_id>78b8ecc583fe22103308cb96feaad3b2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Medication Details" display_value="Medication Details" name="u_medication" sys_domain="global" view="Default view">612acaac836222103308cb96feaad367</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-07-09 12:06:44</sys_updated_on>
+            <sys_updated_on>2025-07-15 19:14:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_medication_name</element>
-            <position>3</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-07-09 12:06:44</sys_created_on>
-            <sys_id>fd4d0c03836622103308cb96feaad3d5</sys_id>
+            <sys_created_on>2025-07-15 19:14:24</sys_created_on>
+            <sys_id>fcb8ecc583fe22103308cb96feaad3b2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Medication Details" display_value="Medication Details" name="u_medication" sys_domain="global" view="Default view">612acaac836222103308cb96feaad367</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-07-09 12:06:44</sys_updated_on>
+            <sys_updated_on>2025-07-15 19:14:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_dosage</element>
-            <position>4</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-07-09 12:06:44</sys_created_on>
-            <sys_id>754d0c03836622103308cb96feaad3d6</sys_id>
+            <sys_created_on>2025-07-15 19:14:24</sys_created_on>
+            <sys_id>74b8ecc583fe22103308cb96feaad3b3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Medication Details" display_value="Medication Details" name="u_medication" sys_domain="global" view="Default view">612acaac836222103308cb96feaad367</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-07-09 12:06:44</sys_updated_on>
+            <sys_updated_on>2025-07-15 19:14:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_frequency</element>
-            <position>5</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-07-09 12:06:44</sys_created_on>
-            <sys_id>f94d0c03836622103308cb96feaad3d6</sys_id>
+            <sys_created_on>2025-07-15 19:14:24</sys_created_on>
+            <sys_id>f8b8ecc583fe22103308cb96feaad3b3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Medication Details" display_value="Medication Details" name="u_medication" sys_domain="global" view="Default view">612acaac836222103308cb96feaad367</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-07-09 12:06:44</sys_updated_on>
+            <sys_updated_on>2025-07-15 19:14:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_total_dosage</element>
-            <position>6</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-07-09 12:06:44</sys_created_on>
-            <sys_id>714d0c03836622103308cb96feaad3d7</sys_id>
+            <sys_created_on>2025-07-15 19:14:24</sys_created_on>
+            <sys_id>70b8ecc583fe22103308cb96feaad3b4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Medication Details" display_value="Medication Details" name="u_medication" sys_domain="global" view="Default view">612acaac836222103308cb96feaad367</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-07-09 12:06:44</sys_updated_on>
+            <sys_updated_on>2025-07-15 19:14:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_status</element>
-            <position>7</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-07-09 12:06:44</sys_created_on>
-            <sys_id>f54d0c03836622103308cb96feaad3d7</sys_id>
+            <sys_created_on>2025-07-15 19:14:24</sys_created_on>
+            <sys_id>f4b8ecc583fe22103308cb96feaad3b4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Medication Details" display_value="Medication Details" name="u_medication" sys_domain="global" view="Default view">612acaac836222103308cb96feaad367</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-07-09 12:06:44</sys_updated_on>
+            <sys_updated_on>2025-07-15 19:14:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
